@@ -1,2 +1,2 @@
-# token
+# Tokens
 Token contracts
